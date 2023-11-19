@@ -1,0 +1,17 @@
+.link{
+    color: black;
+    text-decoration: none;
+}
+.back{
+    text-decoration: none;
+    color: red;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.menu {
+    text-decoration: none;
+position: absolute;
+left: 1rem;
+height: 1rem;
+    color:rgb(17, 0, 255);
+}
